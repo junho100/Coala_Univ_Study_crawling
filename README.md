@@ -18,7 +18,7 @@
 * naverTV_Info(1-100)
   * 네이버티비 1-100위 영상 정보를 크롤링 후 출력
 * cafe_info_crawler
-  *카페 정보 자동 크롤링 후 출력
+  * 카페 정보 자동 크롤링 후 출력
 * conditional_crawling
   * 영화 중 Action 장르만 출력
 * get_poster
