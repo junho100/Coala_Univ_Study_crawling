@@ -17,3 +17,11 @@
   * 네이버 시리즈 정보를 크롤링 후 excel 파일에 저장, 엑셀파일 보기 쉽게 가공
 * naverTV_Info(1-100)
   * 네이버티비 1-100위 영상 정보를 크롤링 후 출력
+* cafe_info_crawler
+  *카페 정보 자동 크롤링 후 출력
+* conditional_crawling
+  * 영화 중 Action 장르만 출력
+* get_poster
+  * 영화 포스터 그림파일 크롤링 후 저장
+* translator
+  * BS4를 이용한 한/영 번역기
